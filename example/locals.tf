@@ -1,3 +1,3 @@
 locals {
-  zone_name = "example.com"
+  zone_name = "capnduck.com"
 }
